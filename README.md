@@ -6,7 +6,7 @@ Additionally, I'm working as Back-end Software Engineer on the Python  Telegram 
 
 📫 How to reach me:
 
-[![](https://img.shields.io/badge/Vasyl_Boliuk-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasylboliuk/)  [![](https://img.shields.io/badge/Vasyl_Boliuk-D14836?style=flat-square&logo=gmail&logoColor=white)](vbboliuk@gmail.com)  [![](https://img.shields.io/badge/Vasyl_Boliuk-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vboliuk)
+[![](https://img.shields.io/badge/Vasyl_Boliuk-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasylboliuk/)  [![](https://img.shields.io/badge/Vasyl_Boliuk-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vbboliuk@gmail.com)  [![](https://img.shields.io/badge/Vasyl_Boliuk-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vboliuk)
 
 <!--
 **vasylboliuk/VasylBoliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
