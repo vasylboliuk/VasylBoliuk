@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 -->
 
 ### My Stats ⭐
-</br>
-</br>
 <p float="left">
   <img aligh="left" valign="top" width="50%" alt="Vasyl Boliuk's GitHub Stastics" src="https://github-readme-stats.vercel.app/api?username=vasylboliuk&show_icons=true&theme=transparent" />
   <img aligh="right" valign="middle" width="40%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasylboliuk&show_icons=true&theme=transparent" /> 
